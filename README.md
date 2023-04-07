@@ -1,2 +1,2 @@
 # F1inSchoolsCodes
-Codes for F1inSchools
+Codes for solving F1inSchools problems
